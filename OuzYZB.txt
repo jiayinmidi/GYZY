@@ -14,21 +14,18 @@
     },
     {
       "name": "📺PLXS",
-      "api": "https://codeberg.org/jiayinmidi/MyZB/raw/branch/main/MD/PLXS",
-      "type": 10,
-      "remark": "来自 YanG-1989 大佬 https://github.com/YanG-1989"
+      "api": "https://raw.githubusercontent.com/jiayinmidi/SRZB/refs/heads/main/PLXS.txt",
+      "type": 10
     },
     {
       "name": "📺MD",
-      "api": "https://codeberg.org/jiayinmidi/MyZB/raw/branch/main/MD/MD.txt",
-      "type": 10,
-      "remark": "来自 YanG-1989 大佬 https://github.com/YanG-1989"
+      "api": "https://raw.githubusercontent.com/jiayinmidi/SRZB/refs/heads/main/MD.txt",
+      "type": 10
     },
     {
       "name": "📺RH",
-      "api": "https://codeberg.org/jiayinmidi/MyZB/raw/branch/main/RH/RH.txt",
-      "type": 10,
-      "remark": "来自 YanG-1989 大佬 https://github.com/YanG-1989"
+      "api": "https://raw.githubusercontent.com/jiayinmidi/SRZB/refs/heads/main/RH.txt",
+      "type": 10
     },
     {
       "name": "📺18+",
