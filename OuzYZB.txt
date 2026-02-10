@@ -59,13 +59,19 @@
     },
     {
       "name": "📺XXYS",
-      "api": "https://codeberg.org/jiayinmidi/MyZB/raw/branch/main/MD/XXYS",
+      "api": "https://raw.githubusercontent.com/jiayinmidi/SRZB/refs/heads/main/XXYS.txt",
+      "type": 10,
+      "remark": "来自 YanG-1989 大佬 https://github.com/YanG-1989"
+    },
+    {
+      "name": "📺MaYi",
+      "api": "https://raw.githubusercontent.com/jiayinmidi/SRZB/refs/heads/main/MaYi.txt",
       "type": 10,
       "remark": "来自 YanG-1989 大佬 https://github.com/YanG-1989"
     },
     {
       "name": "📺ADULT",
-      "api": "https://codeberg.org/jiayinmidi/MyZB/raw/branch/main/MD/ADULT",
+      "api": "https://raw.githubusercontent.com/jiayinmidi/SRZB/refs/heads/main/Adult.txt",
       "type": 10,
       "remark": "来自 YanG-1989 大佬 https://github.com/YanG-1989"
     },
@@ -733,4 +739,5 @@
   ]
 
 }
+
 
