@@ -8,9 +8,15 @@
     },
     {
       "name": "📺本地直播",
-      "api": "https://codeberg.org/jiayinmidi/HMZB/raw/branch/main/HMZB/HMZB.txt",
+      "api": "https://raw.githubusercontent.com/jiayinmidi/KZB/refs/heads/main/HMZB.txt",
       "type": 10,
       "remark": "来自本地直播"
+    },
+    {
+      "name": "📺shanxiyidongZB",
+      "api": "https://raw.githubusercontent.com/jiayinmidi/KZB/refs/heads/main/shanxiyidongZB.txt",
+      "type": 10,
+      "remark": "shanxiyidongZB"
     },
     {
       "name": "📺PLXS",
@@ -727,3 +733,4 @@
   ]
 
 }
+
