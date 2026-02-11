@@ -524,12 +524,14 @@
     "name": "涩涩🔞直播"
   },
   {
-    "api": "https://raw.githubusercontent.com/jiayinmidi/GYZY/refs/heads/main/%E9%BB%84%E8%89%B2%E4%BB%93%E5%BA%93%5B%E5%AF%86%5D.js",
-    "name": "🔞黄色仓库"
+    "api": "https://raw.githubusercontent.com/jiayinmidi/GYZY/refs/heads/main/drpy2.min.js",
+    "name": "🔞黄色仓库",
+ "ext": "https://raw.githubusercontent.com/jiayinmidi/GYZY/refs/heads/main/%E9%BB%84%E8%89%B2%E4%BB%93%E5%BA%93%5B%E5%AF%86%5D.js"
   },
   {
-    "api": "https://raw.githubusercontent.com/jiayinmidi/GYZY/refs/heads/main/hsck_open.js",
-    "name": "🔞hsck"
+    "api": "https://raw.githubusercontent.com/jiayinmidi/GYZY/refs/heads/main/drpy2.min.js",
+    "name": "🔞hsck",
+ "ext": "https://raw.githubusercontent.com/jiayinmidi/GYZY/refs/heads/main/hsck_open.js"
   },
   {
     "api": "https://apidanaizi.com/api.php/provide/vod/?ac=list",
