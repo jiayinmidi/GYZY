@@ -34,30 +34,6 @@
       "type": 10
     },
     {
-      "name": "📺18+",
-      "api": "http://live.nctv.top/zby/18.txt",
-      "type": 10,
-      "remark": "来自 YanG-1989 大佬 https://github.com/YanG-1989"
-    },
-    {
-      "name": "📺18-",
-      "api": "https://codeberg.org/jiayinmidi/MyZB/raw/branch/main/MD/18-.txt",
-      "type": 10,
-      "remark": "来自 YanG-1989 大佬 https://github.com/YanG-1989"
-    },
-    {
-      "name": "📺SS",
-      "api": "http://xmbjm.fh4u.org/ss.txt",
-      "type": 10,
-      "remark": "来自 YanG-1989 大佬 https://github.com/YanG-1989"
-    },
-    {
-      "name": "📺DO",
-      "api": "https://mpimg.cn/down.php/8d2a9e288c792b5c97ae81b9e59b2c07.txt",
-      "type": 10,
-      "remark": "来自 YanG-1989 大佬 https://github.com/YanG-1989"
-    },
-    {
       "name": "📺XXYS",
       "api": "https://raw.githubusercontent.com/jiayinmidi/SRZB/refs/heads/main/XXYS.txt",
       "type": 10,
@@ -76,20 +52,26 @@
       "remark": "来自 YanG-1989 大佬 https://github.com/YanG-1989"
     },
     {
-      "name": "📺Adult",
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/atsushi444/iptv-epg/main/Adult.m3u",
+      "name": "📺18+",
+      "api": "http://live.nctv.top/zby/18.txt",
       "type": 10,
       "remark": "来自 YanG-1989 大佬 https://github.com/YanG-1989"
     },
     {
-      "name": "📺潇洒",
-      "api": "https://fanmingming.com/txt?url=https://g.3344550.xyz/https://raw.githubusercontent.com/vicjl/myIPTV/main/IPTV-all.m3u",
+      "name": "📺SS",
+      "api": "http://xmbjm.fh4u.org/ss.txt",
       "type": 10,
       "remark": "来自 YanG-1989 大佬 https://github.com/YanG-1989"
     },
     {
-      "name": "📺央视卫视（潇洒）",
-      "api": "https://fanmingming.com/txt?url=https://raw.githubusercontent.com/zwrt/IPTV/Files/IPTV.m3u",
+      "name": "📺18dianbo",
+      "api": "https://codeberg.org/xinghaizhang/zhiboyuan/raw/branch/main/18dianbo.m3u",
+      "type": 10,
+      "remark": "来自 YanG-1989 大佬 https://github.com/YanG-1989"
+    },
+    {
+      "name": "📺DO",
+      "api": "https://mpimg.cn/down.php/8d2a9e288c792b5c97ae81b9e59b2c07.txt",
       "type": 10,
       "remark": "来自 YanG-1989 大佬 https://github.com/YanG-1989"
     }
@@ -749,4 +731,3 @@
   ]
 
 }
-
