@@ -712,10 +712,6 @@
         "api": "https://dadiapi.com/api.php/provide/vod/at/json"
     },
     {
-        "name": "🔞大地(php)",
-        "api": "https://dadiapi.com/api.php"
-    },
-    {
         "name": "🔞大地",
         "api": "https://dadiapi.com/api.php/provide/vod/"
     },
@@ -731,3 +727,4 @@
   ]
 
 }
+
