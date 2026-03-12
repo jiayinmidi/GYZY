@@ -239,18 +239,6 @@
         "api": "https://360zy.com/api.php/provide/vod/"
     },
     {
-        "api": "https://www.39kan.com/api.php/provide/vod/",
-        "name": "🔵39影视"
-    },
-    {
-        "api": "https://www.39kan.com/api.php/provide/vod/at/json/",
-        "name": "🔵39影视(json)"
-    },
-    {
-        "name": "🔵飞速",
-        "api": "http://fszy1.com/api.php/provide/vod/"
-    },
-    {
         "name": "🔵光速",
         "api": "https://api.guangsuapi.com/api.php/provide/vod/"
     },
@@ -723,4 +711,5 @@
   ]
 
 }
+
 
