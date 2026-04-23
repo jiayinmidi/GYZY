@@ -12,6 +12,12 @@
       "remark": "raw.githubusercontent.com"
     },
     {
+    "name": "📺电视直播",
+    "api": "https://gitee.com/man781534/uz/raw/master/tv.txt",
+    "type": 10,
+    "remark": "https://gitee.com"
+    },
+    {
       "name": "📺PLXS",
       "api": "https://codeberg.org/jiayinmidi/SRZB/raw/branch/main/PLXS/PLXS.txt",
       "type": 10,
@@ -152,7 +158,7 @@
     "webSite": "https://music.gdstudio.xyz/",
     "codeID": "M9nkucZA62rwJZsCkCkvdxuzYlRmmE4G",
     "order": "B",
-    "api": "vod/js/Zhi_gdstudio.txt",
+    "api": "https://raw.giteeusercontent.com/jiayinmidi/uz/raw/master/vod/js/Zhi_gdstudio.txt?metadata=eyJyIjoibWFzdGVyIiwiZnAiOiJ2b2QvanMvWmhpX2dkc3R1ZGlvLnR4dCIsInVpZCI6MTQ0MDMzMjIsInBpZCI6NDcxODAzNDEsInN0byI6ImdpdC1zaGFyZGluZy1zdG8tNDJ0LTAxMyIsInJwIjoicmVwb3MvNDQvY2UvNDRjZWY1MDE4YjI4N2E4OWZiN2ZjN2FlYjg2MDkwNmNiOTQyY2FmZDdmMmUyOGEyNzljODhiNzlhNDJjMjQzOC5naXQiLCJpc3AiOnRydWUsImV4cGlyZV9hdCI6MTc3Njk1ODIwMH0&signature=2y-3sM0GoR7mwJxktmcD1y-nqrk7e4utq1WcJk8XiNI",
     "type": 101,
     "logo": "https://img.geekie.site/i/2026/02/23/220741.png"
   },
