@@ -12,26 +12,20 @@
       "remark": "raw.githubusercontent.com"
     },
     {
-    "name": "📺电视直播",
-    "api": "https://gitee.com/man781534/uz/raw/master/tv.txt",
-    "type": 10,
-    "remark": "https://gitee.com"
-    },
-    {
       "name": "📺PLXS",
-      "api": "https://codeberg.org/jiayinmidi/SRZB/raw/branch/main/PLXS/PLXS.txt",
+      "api": "https://raw.githubusercontent.com/jiayinmidi/SRZB/refs/heads/main/PLXS.txt",
       "type": 10,
       "remark": "codeberg.org"
     },
     {
       "name": "📺MD",
-      "api": "https://codeberg.org/jiayinmidi/SRZB/raw/branch/main/MD/MD.txt",
+      "api": "https://raw.githubusercontent.com/jiayinmidi/SRZB/refs/heads/main/MD.txt",
       "type": 10,
       "remark": "codeberg.org"
     },
     {
       "name": "📺RH",
-      "api": "https://codeberg.org/jiayinmidi/SRZB/raw/branch/main/RH/RH.txt",
+      "api": "https://raw.githubusercontent.com/jiayinmidi/SRZB/refs/heads/main/RH.txt",
       "type": 10,
       "remark": "codeberg.org"
     },
@@ -316,4 +310,3 @@
     {"name": "🔞香蕉","api": "https://www.xiangjiaozyw.com/api.php/provide/vod/?ac=list"},
     {"name": "🔞大奶子","api": "https://apidanaizi.com/api.php/provide/vod/?ac=list"}
     ]
-
