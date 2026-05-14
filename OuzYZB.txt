@@ -12,12 +12,6 @@
       "remark": "raw.githubusercontent.com"
     },
     {
-    "name": "📺电视直播",
-    "api": "https://gitee.com/man781534/uz/raw/master/tv.txt",
-    "type": 10,
-    "remark": "https://gitee.com"
-    },
-    {
       "name": "📺PLXS",
       "api": "https://raw.githubusercontent.com/jiayinmidi/SRZB/refs/heads/main/PLXS.txt",
       "type": 10,
@@ -72,26 +66,41 @@
     "remark": "来自 YanG-1989 大佬 https://github.com/YanG-1989"
   },
   {
-    "name": "🔵豆瓣搜索",
+    "name": "[荐] 豆瓣",
     "version": 4,
     "remark": "🍃豆儿出品，不属精品！",
     "webSite": "https://movie.douban.com",
     "codeID": "4r9lCCTjjoqI5sGDkzho2sNKSL2BQXpc",
     "order": "A00",
-    "api": "https://codeberg.org/jiayinmidi/OuzYZB/raw/branch/main/OuzYZB/vod/js/Jian_douban2.txt",
+    "api": "https://gitee.com/jiayinmidi/uz/blob/master/vod/js/Jian_douban2.txt",
     "type": 101
   },
   {
-    "name": "[直] 瓜子¹",
-    "version": 4,
-    "remark": "瓜子APP",
-    "webSite": "http://api.gudvxty.com",
-    "codeID": "ra5Z3wtXKshzSMK2",
-    "instance": "gzapp20241001",
+    "name": "[直] 奇优",
+    "version": 2,
+    "webSite": "http://www.qiyoudy4.com",
     "order": "B",
-    "api": "https://codeberg.org/jiayinmidi/OuzYZB/raw/branch/main/OuzYZB/vod/js/Zhi_gzapp.txt",
-    "type": 100,
-    "logo": "https://cdn.jsdelivr.net/gh/YYDS678/uzVideo-extensions@main/logo/guazi.png"
+    "api": "https://gitee.com/jiayinmidi/uz/blob/master/vod/js/Zhi_qiyou.js",
+    "type": 101
+  },
+  {
+    "name": "乌云影视",
+    "version": 3,
+    "remark": "🙀是白猫呀！！！",
+    "webSite": "https://wooyun.tv",
+    "order": "B",
+    "api": "https://gitee.com/jiayinmidi/uz/blob/master/vod/js/Zhi_wooyun.js",
+    "type": 101
+  },
+  {
+    "name": "[直] 瓜子",
+    "version": 2,
+    "remark": "🍃豆儿出品，不属精品！",
+    "webSite": "https://api.w32z7vtd.com",
+    "codeID": "GsrfFOqB7JtHhaMDFHw9Xv3uHrCGSdwe",
+    "order": "B",
+    "api": "https://gitee.com/jiayinmidi/uz/blob/master/vod/js/Zhi_guazi.txt",
+    "type": 101
   },
   {
     "name": "[直] 荐片",
@@ -100,7 +109,18 @@
     "webSite": "jianpian",
     "codeID": "3UXc19H0H2Dzz4vJEO4yFIGCmKXIlfoM",
     "order": "B",
-    "api": "https://codeberg.org/jiayinmidi/OuzYZB/raw/branch/main/OuzYZB/vod/js/Zhi_jianpian.txt",
+    "api": "https://gitee.com/jiayinmidi/uz/blob/master/vod/js/Zhi_jianpian.txt",
+    "type": 101
+  },
+  {
+    "name": "[直] 豆哔",
+    "version": 9,
+    "remark": "🍃豆儿出品，不属精品！内容来自网络 仅供学习测试！",
+    "env": "bili_cookie##bili_cookie 用于获取个性化推荐和高清视频",
+    "webSite": "doubi",
+    "codeID": "9Djl2QaDMOIgvhl8tYAhdVowEsmuPZpA",
+    "order": "B",
+    "api": "https://gitee.com/jiayinmidi/uz/blob/master/vod/js/Zhi_doubi.txt",
     "type": 101
   },
   {
@@ -112,34 +132,13 @@
     "type": 101
   },
   {
-    "name": "[直] 在线",
-    "version": 4,
+    "name": "[直] 山有木兮",
+    "version": 1,
     "remark": "🍃豆儿出品，不属精品！",
-    "webSite": "https://www.zxzjhd.com",
-    "codeID": "xgFE0TUb8SZsOIlZzcUkxRtewYrSozoC",
+    "webSite": "https://film.symx.club",
+    "codeID": "OpwROp7JEarNm4PJvnFpaiCVjAMTGa8k",
     "order": "B",
-    "api": "https://codeberg.org/jiayinmidi/OuzYZB/raw/branch/main/OuzYZB/vod/js/Zhi_zxzj.txt",
-    "type": 101
-  },
-  {
-    "name": "[直] 豆哔",
-    "version": 9,
-    "remark": "🍃豆儿出品，不属精品！内容来自网络 仅供学习测试！",
-    "env": "bili_cookie##bili_cookie 用于获取个性化推荐和高清视频",
-    "webSite": "doubi",
-    "codeID": "9Djl2QaDMOIgvhl8tYAhdVowEsmuPZpA",
-    "order": "B",
-    "api": "https://codeberg.org/jiayinmidi/OuzYZB/raw/branch/main/OuzYZB/vod/js/Zhi_doubi.txt",
-    "type": 101
-  },
-  {
-    "name": "[直] RRSP",
-    "version": 2,
-    "remark": "🍃豆儿出品，不属精品！",
-    "webSite": "RRSP",
-    "codeID": "a2buZX6jr7AcTQppx1MTcXMQOGNZFAAF",
-    "order": "B",
-    "api": "https://codeberg.org/jiayinmidi/OuzYZB/raw/branch/main/OuzYZB/vod/js/Zhi_rrsp.txt",
+    "api": "https://gitee.com/jiayinmidi/uz/blob/master/vod/js/Zhi_symx.txt",
     "type": 101
   },
   {
@@ -149,7 +148,7 @@
     "webSite": "https://www.kuaikaw.cn",
     "codeID": "y1JFo0Sxs3fVwTggELeJ4U4MWLVKM1dK",
     "order": "B",
-    "api": "https://codeberg.org/jiayinmidi/OuzYZB/raw/branch/main/OuzYZB/vod/js/Zhi_hmdj.txt",
+    "api": "https://gitee.com/jiayinmidi/uz/blob/master/vod/js/Zhi_hmdj.txt",
     "type": 101
   },
   {
@@ -159,7 +158,7 @@
     "webSite": "https://v.aikanbot.com",
     "codeID": "xWEHbLCxcGGhC4tstiAXbQ5NT6FJz50X",
     "order": "B",
-    "api": "https://codeberg.org/jiayinmidi/OuzYZB/raw/branch/main/OuzYZB/vod/js/Zhi_iKanBot.txt",
+    "api": "https://gitee.com/jiayinmidi/uz/blob/master/vod/js/Zhi_iKanBot.txt",
     "type": 101
   },
   {
@@ -167,7 +166,7 @@
     "version": 1,
     "webSite": "https://eacg1.com",
     "order": "C",
-    "api": "https://codeberg.org/jiayinmidi/OuzYZB/raw/branch/main/OuzYZB/vod/js/Xiu_eacg.js",
+    "api": "https://gitee.com/jiayinmidi/uz/blob/master/vod/js/Xiu_eacg.js",
     "type": 101
   },
   {
@@ -175,7 +174,15 @@
     "version": 1,
     "webSite": "https://eacg1.com",
     "order": "C",
-    "api": "https://codeberg.org/jiayinmidi/OuzYZB/raw/branch/main/OuzYZB/vod/js/Xiu_eacg2.js",
+    "api": "https://gitee.com/jiayinmidi/uz/blob/master/vod/js/Xiu_eacg2.js",
+    "type": 101
+  },
+  {
+    "name": "[嗅] MuteFun",
+    "version": 1,
+    "webSite": "https://www.mutean.com",
+    "order": "C",
+    "api": "https://gitee.com/jiayinmidi/uz/blob/master/vod/js/Xiu_MuteFun.js",
     "type": 101
   },
     {
@@ -453,6 +460,10 @@
     {
         "name": "🔵猫眼",
         "api": "https://api.maoyanapi.top/api.php/provide/vod/at/json"
+    },
+    {
+        "api": "http://zy.xiaomaomi.cc/api.php/provide/vod/",
+        "name": "🔵小猫咪"
     },
   {
     "api": "https://apidanaizi.com/api.php/provide/vod/?ac=list",
