@@ -72,7 +72,7 @@
     "webSite": "https://movie.douban.com",
     "codeID": "4r9lCCTjjoqI5sGDkzho2sNKSL2BQXpc",
     "order": "A00",
-    "api": "https://gitee.com/jiayinmidi/uz/blob/master/vod/js/Jian_douban2.txt",
+    "api": "https://raw.giteeusercontent.com/jiayinmidi/uz/raw/master/vod/js/Jian_douban2.txt?metadata=eyJyIjoibWFzdGVyIiwiZnAiOiJ2b2QvanMvSmlhbl9kb3ViYW4yLnR4dCIsInVpZCI6MTQ0MDMzMjIsInBpZCI6NDcxODAzNDEsInN0byI6ImdpdC1zaGFyZGluZy1zdG8tNDJ0LTAxMyIsInJwIjoicmVwb3MvNDQvY2UvNDRjZWY1MDE4YjI4N2E4OWZiN2ZjN2FlYjg2MDkwNmNiOTQyY2FmZDdmMmUyOGEyNzljODhiNzlhNDJjMjQzOC5naXQiLCJpc3AiOnRydWUsImV4cGlyZV9hdCI6MTc3ODc2MTIwMH0&signature=27EmDXkhc9IEWv-JOkmQVP3R23_-YyXJQJsRF5D4Ic8",
     "type": 101
   },
   {
@@ -80,7 +80,7 @@
     "version": 2,
     "webSite": "http://www.qiyoudy4.com",
     "order": "B",
-    "api": "https://gitee.com/jiayinmidi/uz/blob/master/vod/js/Zhi_qiyou.js",
+    "api": "https://raw.giteeusercontent.com/jiayinmidi/uz/raw/master/vod/js/Zhi_qiyou.js?metadata=eyJyIjoibWFzdGVyIiwiZnAiOiJ2b2QvanMvWmhpX3FpeW91LmpzIiwidWlkIjoxNDQwMzMyMiwicGlkIjo0NzE4MDM0MSwic3RvIjoiZ2l0LXNoYXJkaW5nLXN0by00MnQtMDEzIiwicnAiOiJyZXBvcy80NC9jZS80NGNlZjUwMThiMjg3YTg5ZmI3ZmM3YWViODYwOTA2Y2I5NDJjYWZkN2YyZTI4YTI3OWM4OGI3OWE0MmMyNDM4LmdpdCIsImlzcCI6dHJ1ZSwiZXhwaXJlX2F0IjoxNzc4NzYxMjAwfQ&signature=wg4_BWlwil-tkSzqRPensgG1pCQKgVoNrF_SAIgclE0",
     "type": 101
   },
   {
@@ -89,7 +89,7 @@
     "remark": "🙀是白猫呀！！！",
     "webSite": "https://wooyun.tv",
     "order": "B",
-    "api": "https://gitee.com/jiayinmidi/uz/blob/master/vod/js/Zhi_wooyun.js",
+    "api": "https://raw.giteeusercontent.com/jiayinmidi/uz/raw/master/vod/js/Zhi_wooyun.js?metadata=eyJyIjoibWFzdGVyIiwiZnAiOiJ2b2QvanMvWmhpX3dvb3l1bi5qcyIsInVpZCI6MTQ0MDMzMjIsInBpZCI6NDcxODAzNDEsInN0byI6ImdpdC1zaGFyZGluZy1zdG8tNDJ0LTAxMyIsInJwIjoicmVwb3MvNDQvY2UvNDRjZWY1MDE4YjI4N2E4OWZiN2ZjN2FlYjg2MDkwNmNiOTQyY2FmZDdmMmUyOGEyNzljODhiNzlhNDJjMjQzOC5naXQiLCJpc3AiOnRydWUsImV4cGlyZV9hdCI6MTc3ODc2MTIwMH0&signature=gUCUdmWxn_2Uem_2r2GqO9rlEkPECjwKybFJyzKFm58",
     "type": 101
   },
   {
@@ -99,7 +99,7 @@
     "webSite": "https://api.w32z7vtd.com",
     "codeID": "GsrfFOqB7JtHhaMDFHw9Xv3uHrCGSdwe",
     "order": "B",
-    "api": "https://gitee.com/jiayinmidi/uz/blob/master/vod/js/Zhi_guazi.txt",
+    "api": "https://raw.giteeusercontent.com/jiayinmidi/uz/raw/master/vod/js/Zhi_guazi.txt?metadata=eyJyIjoibWFzdGVyIiwiZnAiOiJ2b2QvanMvWmhpX2d1YXppLnR4dCIsInVpZCI6MTQ0MDMzMjIsInBpZCI6NDcxODAzNDEsInN0byI6ImdpdC1zaGFyZGluZy1zdG8tNDJ0LTAxMyIsInJwIjoicmVwb3MvNDQvY2UvNDRjZWY1MDE4YjI4N2E4OWZiN2ZjN2FlYjg2MDkwNmNiOTQyY2FmZDdmMmUyOGEyNzljODhiNzlhNDJjMjQzOC5naXQiLCJpc3AiOnRydWUsImV4cGlyZV9hdCI6MTc3ODc2MTIwMH0&signature=XRqra5l3wWDcvHxOnX97XjOT-qfAAQgpKAOB9oQVuvw",
     "type": 101
   },
   {
@@ -109,7 +109,7 @@
     "webSite": "jianpian",
     "codeID": "3UXc19H0H2Dzz4vJEO4yFIGCmKXIlfoM",
     "order": "B",
-    "api": "https://gitee.com/jiayinmidi/uz/blob/master/vod/js/Zhi_jianpian.txt",
+    "api": "https://raw.giteeusercontent.com/jiayinmidi/uz/raw/master/vod/js/Zhi_jianpian.txt?metadata=eyJyIjoibWFzdGVyIiwiZnAiOiJ2b2QvanMvWmhpX2ppYW5waWFuLnR4dCIsInVpZCI6MTQ0MDMzMjIsInBpZCI6NDcxODAzNDEsInN0byI6ImdpdC1zaGFyZGluZy1zdG8tNDJ0LTAxMyIsInJwIjoicmVwb3MvNDQvY2UvNDRjZWY1MDE4YjI4N2E4OWZiN2ZjN2FlYjg2MDkwNmNiOTQyY2FmZDdmMmUyOGEyNzljODhiNzlhNDJjMjQzOC5naXQiLCJpc3AiOnRydWUsImV4cGlyZV9hdCI6MTc3ODc2MTIwMH0&signature=ZUV7-2shN5huiwCPFPtvrBPPAZpgUhGTKdYaDWB7Q8k",
     "type": 101
   },
   {
@@ -120,15 +120,7 @@
     "webSite": "doubi",
     "codeID": "9Djl2QaDMOIgvhl8tYAhdVowEsmuPZpA",
     "order": "B",
-    "api": "https://gitee.com/jiayinmidi/uz/blob/master/vod/js/Zhi_doubi.txt",
-    "type": 101
-  },
-  {
-    "name": "[验] 柠檬影院",
-    "version": 3,
-    "webSite": "https://m.ydfdj.com/",
-    "order": "B",
-    "api": "https://gitee.com/man781534/uz/raw/master/js/nmys.js",
+    "api": "https://raw.giteeusercontent.com/jiayinmidi/uz/raw/master/vod/js/Zhi_doubi.txt?metadata=eyJyIjoibWFzdGVyIiwiZnAiOiJ2b2QvanMvWmhpX2RvdWJpLnR4dCIsInVpZCI6MTQ0MDMzMjIsInBpZCI6NDcxODAzNDEsInN0byI6ImdpdC1zaGFyZGluZy1zdG8tNDJ0LTAxMyIsInJwIjoicmVwb3MvNDQvY2UvNDRjZWY1MDE4YjI4N2E4OWZiN2ZjN2FlYjg2MDkwNmNiOTQyY2FmZDdmMmUyOGEyNzljODhiNzlhNDJjMjQzOC5naXQiLCJpc3AiOnRydWUsImV4cGlyZV9hdCI6MTc3ODc2MTIwMH0&signature=fiTiQyzQwaeA2pCWbdtBLhJ9FoqDQsP4RmxrfIUwFNc",
     "type": 101
   },
   {
@@ -138,7 +130,7 @@
     "webSite": "https://film.symx.club",
     "codeID": "OpwROp7JEarNm4PJvnFpaiCVjAMTGa8k",
     "order": "B",
-    "api": "https://gitee.com/jiayinmidi/uz/blob/master/vod/js/Zhi_symx.txt",
+    "api": "https://raw.giteeusercontent.com/jiayinmidi/uz/raw/master/vod/js/Zhi_symx.txt?metadata=eyJyIjoibWFzdGVyIiwiZnAiOiJ2b2QvanMvWmhpX3N5bXgudHh0IiwidWlkIjoxNDQwMzMyMiwicGlkIjo0NzE4MDM0MSwic3RvIjoiZ2l0LXNoYXJkaW5nLXN0by00MnQtMDEzIiwicnAiOiJyZXBvcy80NC9jZS80NGNlZjUwMThiMjg3YTg5ZmI3ZmM3YWViODYwOTA2Y2I5NDJjYWZkN2YyZTI4YTI3OWM4OGI3OWE0MmMyNDM4LmdpdCIsImlzcCI6dHJ1ZSwiZXhwaXJlX2F0IjoxNzc4NzYxODAwfQ&signature=R3HsqhzQ3y1cv6EDZsMdwZp-OAxCCjRTX08aeJK605Q",
     "type": 101
   },
   {
@@ -148,7 +140,7 @@
     "webSite": "https://www.kuaikaw.cn",
     "codeID": "y1JFo0Sxs3fVwTggELeJ4U4MWLVKM1dK",
     "order": "B",
-    "api": "https://gitee.com/jiayinmidi/uz/blob/master/vod/js/Zhi_hmdj.txt",
+    "api": "https://raw.giteeusercontent.com/jiayinmidi/uz/raw/master/vod/js/Zhi_hmdj.txt?metadata=eyJyIjoibWFzdGVyIiwiZnAiOiJ2b2QvanMvWmhpX2htZGoudHh0IiwidWlkIjoxNDQwMzMyMiwicGlkIjo0NzE4MDM0MSwic3RvIjoiZ2l0LXNoYXJkaW5nLXN0by00MnQtMDEzIiwicnAiOiJyZXBvcy80NC9jZS80NGNlZjUwMThiMjg3YTg5ZmI3ZmM3YWViODYwOTA2Y2I5NDJjYWZkN2YyZTI4YTI3OWM4OGI3OWE0MmMyNDM4LmdpdCIsImlzcCI6dHJ1ZSwiZXhwaXJlX2F0IjoxNzc4NzYxODAwfQ&signature=aR90JskqGykgaw4cUd7Zoj5l5toB_fgqLfv-44f9jII",
     "type": 101
   },
   {
@@ -158,7 +150,7 @@
     "webSite": "https://v.aikanbot.com",
     "codeID": "xWEHbLCxcGGhC4tstiAXbQ5NT6FJz50X",
     "order": "B",
-    "api": "https://gitee.com/jiayinmidi/uz/blob/master/vod/js/Zhi_iKanBot.txt",
+    "api": "https://raw.giteeusercontent.com/jiayinmidi/uz/raw/master/vod/js/Zhi_iKanBot.txt?metadata=eyJyIjoibWFzdGVyIiwiZnAiOiJ2b2QvanMvWmhpX2lLYW5Cb3QudHh0IiwidWlkIjoxNDQwMzMyMiwicGlkIjo0NzE4MDM0MSwic3RvIjoiZ2l0LXNoYXJkaW5nLXN0by00MnQtMDEzIiwicnAiOiJyZXBvcy80NC9jZS80NGNlZjUwMThiMjg3YTg5ZmI3ZmM3YWViODYwOTA2Y2I5NDJjYWZkN2YyZTI4YTI3OWM4OGI3OWE0MmMyNDM4LmdpdCIsImlzcCI6dHJ1ZSwiZXhwaXJlX2F0IjoxNzc4NzYxODAwfQ&signature=NLOnG21cZvmKXN0RWBz17IgH3h6ZlTCWIHllve8bUWI",
     "type": 101
   },
   {
@@ -166,7 +158,7 @@
     "version": 1,
     "webSite": "https://eacg1.com",
     "order": "C",
-    "api": "https://gitee.com/jiayinmidi/uz/blob/master/vod/js/Xiu_eacg.js",
+    "api": "https://raw.giteeusercontent.com/jiayinmidi/uz/raw/master/vod/js/Xiu_eacg.js?metadata=eyJyIjoibWFzdGVyIiwiZnAiOiJ2b2QvanMvWGl1X2VhY2cuanMiLCJ1aWQiOjE0NDAzMzIyLCJwaWQiOjQ3MTgwMzQxLCJzdG8iOiJnaXQtc2hhcmRpbmctc3RvLTQydC0wMTMiLCJycCI6InJlcG9zLzQ0L2NlLzQ0Y2VmNTAxOGIyODdhODlmYjdmYzdhZWI4NjA5MDZjYjk0MmNhZmQ3ZjJlMjhhMjc5Yzg4Yjc5YTQyYzI0MzguZ2l0IiwiaXNwIjp0cnVlLCJleHBpcmVfYXQiOjE3Nzg3NjE4MDB9&signature=EaD6WR2L_CWgxEuliVsz8cwnaMymdNLVT0kInnCd2Cs",
     "type": 101
   },
   {
@@ -174,7 +166,7 @@
     "version": 1,
     "webSite": "https://eacg1.com",
     "order": "C",
-    "api": "https://gitee.com/jiayinmidi/uz/blob/master/vod/js/Xiu_eacg2.js",
+    "api": "https://raw.giteeusercontent.com/jiayinmidi/uz/raw/master/vod/js/Xiu_eacg.js?metadata=eyJyIjoibWFzdGVyIiwiZnAiOiJ2b2QvanMvWGl1X2VhY2cuanMiLCJ1aWQiOjE0NDAzMzIyLCJwaWQiOjQ3MTgwMzQxLCJzdG8iOiJnaXQtc2hhcmRpbmctc3RvLTQydC0wMTMiLCJycCI6InJlcG9zLzQ0L2NlLzQ0Y2VmNTAxOGIyODdhODlmYjdmYzdhZWI4NjA5MDZjYjk0MmNhZmQ3ZjJlMjhhMjc5Yzg4Yjc5YTQyYzI0MzguZ2l0IiwiaXNwIjp0cnVlLCJleHBpcmVfYXQiOjE3Nzg3NjE4MDB9&signature=EaD6WR2L_CWgxEuliVsz8cwnaMymdNLVT0kInnCd2Cs",
     "type": 101
   },
   {
@@ -182,7 +174,7 @@
     "version": 1,
     "webSite": "https://www.mutean.com",
     "order": "C",
-    "api": "https://gitee.com/jiayinmidi/uz/blob/master/vod/js/Xiu_MuteFun.js",
+    "api": "https://raw.giteeusercontent.com/jiayinmidi/uz/raw/master/vod/js/Xiu_MuteFun.js?metadata=eyJyIjoibWFzdGVyIiwiZnAiOiJ2b2QvanMvWGl1X011dGVGdW4uanMiLCJ1aWQiOjE0NDAzMzIyLCJwaWQiOjQ3MTgwMzQxLCJzdG8iOiJnaXQtc2hhcmRpbmctc3RvLTQydC0wMTMiLCJycCI6InJlcG9zLzQ0L2NlLzQ0Y2VmNTAxOGIyODdhODlmYjdmYzdhZWI4NjA5MDZjYjk0MmNhZmQ3ZjJlMjhhMjc5Yzg4Yjc5YTQyYzI0MzguZ2l0IiwiaXNwIjp0cnVlLCJleHBpcmVfYXQiOjE3Nzg3NjE4MDB9&signature=79lJRodh6yIaXkEGAvTW-uQsu3r31uRS0ah3GjVBlUk",
     "type": 101
   },
     {
@@ -658,4 +650,3 @@
     "name": "🔞百萬资源"
   }
   ]
-
