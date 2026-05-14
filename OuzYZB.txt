@@ -76,14 +76,6 @@
     "type": 101
   },
   {
-    "name": "[直] 奇优",
-    "version": 2,
-    "webSite": "http://www.qiyoudy4.com",
-    "order": "B",
-    "api": "https://raw.giteeusercontent.com/jiayinmidi/uz/raw/master/vod/js/Zhi_qiyou.js?metadata=eyJyIjoibWFzdGVyIiwiZnAiOiJ2b2QvanMvWmhpX3FpeW91LmpzIiwidWlkIjoxNDQwMzMyMiwicGlkIjo0NzE4MDM0MSwic3RvIjoiZ2l0LXNoYXJkaW5nLXN0by00MnQtMDEzIiwicnAiOiJyZXBvcy80NC9jZS80NGNlZjUwMThiMjg3YTg5ZmI3ZmM3YWViODYwOTA2Y2I5NDJjYWZkN2YyZTI4YTI3OWM4OGI3OWE0MmMyNDM4LmdpdCIsImlzcCI6dHJ1ZSwiZXhwaXJlX2F0IjoxNzc4NzYxMjAwfQ&signature=wg4_BWlwil-tkSzqRPensgG1pCQKgVoNrF_SAIgclE0",
-    "type": 101
-  },
-  {
     "name": "乌云影视",
     "version": 3,
     "remark": "🙀是白猫呀！！！",
