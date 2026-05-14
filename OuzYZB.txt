@@ -19,21 +19,21 @@
     },
     {
       "name": "📺PLXS",
-      "api": "https://codeberg.org/jiayinmidi/SRZB/raw/branch/main/PLXS/PLXS.txt",
+      "api": "https://raw.githubusercontent.com/jiayinmidi/SRZB/refs/heads/main/PLXS.txt",
       "type": 10,
-      "remark": "codeberg.org"
+      "remark": "github"
     },
     {
       "name": "📺MD",
-      "api": "https://codeberg.org/jiayinmidi/SRZB/raw/branch/main/MD/MD.txt",
+      "api": "https://raw.githubusercontent.com/jiayinmidi/SRZB/refs/heads/main/MD.txt",
       "type": 10,
-      "remark": "codeberg.org"
+      "remark": "github"
     },
     {
       "name": "📺RH",
-      "api": "https://codeberg.org/jiayinmidi/SRZB/raw/branch/main/RH/RH.txt",
+      "api": "https://raw.githubusercontent.com/jiayinmidi/SRZB/refs/heads/main/RH.txt",
       "type": 10,
-      "remark": "codeberg.org"
+      "remark": "github"
     },
     {
       "name": "📺18+",
@@ -201,10 +201,6 @@
     {
         "name": "🔵优质",
         "api": "https://api.yyzy-tv.vip/inc/apijson.php?ac=list"
-    },
-    {
-        "name": "🔵优质1080",
-        "api": "https://api.yyzy-tv.vip/inc/feifei3/"
     },
     {
         "name": "🔵最大",
