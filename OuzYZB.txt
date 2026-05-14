@@ -481,11 +481,11 @@
   },
     {
       "name": "🏀黄色仓库",
-      "api": "https://hsckzy888.com/api.php/provide/vod/at/json/",
+      "api": "https://hsckzy888.com/api.php/provide/vod/at/json/"
     },
     {
       "name": "🏀黄库",
-      "api": "https://hsckzy888.com/api.php/provide/vod/from/hsckm3u8/at/xmlsea/",
+      "api": "https://hsckzy888.com/api.php/provide/vod/from/hsckm3u8/at/xmlsea/"
     },
     {
         "name": "🔞奶香香",
