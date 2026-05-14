@@ -256,12 +256,7 @@
     },
   {
     "name": "🔵自建CMS",
-    "version": 1,
-    "remark": "地址输入自己搭建的 cms 采集地址，默认使用如意采集占位",
-    "webSite": "https://cj.rycjapi.com/api.php/provide/vod",
-    "order": "D5",
-    "api": "https://codeberg.org/jiayinmidi/OuzYZB/raw/branch/main/OuzYZB/vod/js/Jie_cms.js",
-    "type": 101
+    "api": "https://cj.rycjapi.com/api.php/provide/vod"
   },
     {
         "name": "🔵无尽m3u8",
