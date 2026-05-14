@@ -191,14 +191,6 @@
         "api": "https://api.wsyzy.net/api.php/provide/vod/?ac=list"
     },
     {
-    "name": "🔵优质资源",
-    "version": 3,
-    "webSite": "https://get.1080zyk17.com/",
-    "order": "B",
-    "api": "https://gitee.com/man781534/uz/raw/master/js/yzzy.js",
-    "type": 101
-    },
-    {
         "name": "🔵优质",
         "api": "https://api.yyzy-tv.vip/inc/apijson.php?ac=list"
     },
