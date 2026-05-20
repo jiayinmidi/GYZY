@@ -476,17 +476,10 @@
   {
     "api": "https://ckbh1.xyz/api.php/provide/vod/at/json/",
     "name": "🔞CK百货"
-   },    {
-    "api": "https://yytv1.cc/api.php/provide/vod/?ac=list",
-    "name": "🔞优优资源"
-   }, 
+   },    
    {
     "api": "https://fqzy.me//api.php/provide/vod/?ac=list",
     "name": "🔞番茄资源"
-   }, 
-   {
-    "api": "https://api.souavzyw.net/api.php/provide/vod/?ac=list",
-    "name": "🔞搜AV资源"
    }, 
     {
     "api": "https://155api.com/api.php/provide/vod/",
@@ -605,6 +598,14 @@
         "api": "https://www.xiangjiaozyw.com/api.php/provide/vod/?ac=list"
     },
   {
+    "api": "https://vnzyz.com/api.php/provide/vod/",
+    "name": "🔞越南🇻🇳资源"
+  },
+  {
+    "api": "https://api.bwzyz.com/api.php/provide/vod/at/json/",
+    "name": "🔞百萬资源"
+  },
+  {
     "api": "https://www.siwazyw.tv/api.php/provide/vod/at/json",
     "name": "🔞丝袜"
   },
@@ -628,6 +629,14 @@
         "name": "🔞杏吧",
         "api": "https://xingba111.com/api.php/provide/vod/?ac=list"
     },
+  {
+    "api": "https://yytv1.cc/api.php/provide/vod/?ac=list",
+    "name": "🔞优优资源"
+   }, 
+   {
+    "api": "https://api.souavzyw.net/api.php/provide/vod/?ac=list",
+    "name": "🔞搜AV资源"
+   }, 
     {
         "name": "🔞雪豹",
         "api": "https://api.xbapi.cc/api.php/provide/vod/"
@@ -639,13 +648,5 @@
   {
     "api": "https://www.pgxdy.com/api/json.php",
     "name": "🔞黄AV"
-  },
-  {
-    "api": "https://vnzyz.com/api.php/provide/vod/",
-    "name": "🔞越南🇻🇳资源"
-  },
-  {
-    "api": "https://api.bwzyz.com/api.php/provide/vod/at/json/",
-    "name": "🔞百萬资源"
   }
   ]
