@@ -422,10 +422,6 @@
         "api": "https://ckzy.me/api.php/provide/vod/at/xml/?ac=list"
     },
     {
-        "name": "🔵CK百货",
-        "api": "https://ckbh1.xyz/api.php/provide/vod/at/json/"
-    },
-    {
         "name": "🔵CK伦理",
         "api": "https://ckzy.me/api.php/provide/vod/?ac=list"
     },
@@ -492,7 +488,7 @@
   {
     "api": "https://ckbh1.xyz/api.php/provide/vod/at/json/",
     "name": "🔞CK百货"
-   },    
+   },  
    {
     "api": "https://fqzy.me//api.php/provide/vod/?ac=list",
     "name": "🔞番茄资源"
