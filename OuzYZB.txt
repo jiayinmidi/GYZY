@@ -214,10 +214,6 @@
     "api": "https://dbzy.tv/api.php/provide/vod"
     },
     {
-        "name": "🔵影剧资源",
-        "api": "https://caiji.maotaizy.cc/api.php/provide/vod/at/josn/"
-    },
-    {
        "name": "🔵茅台",
        "api": "https://caiji.maotaizy.cc/api.php/provide/vod/from/mtm3u8/at/josn/"
     },
@@ -354,18 +350,6 @@
         "api": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/"
     },
     {
-        "name": "🔵卧龙",
-        "api": "https://collect.wolongzy.cc/api.php/provide/vod/"
-    },
-    {
-        "name": "🔵卧龙com",
-        "api": "https://collect.wolongzyw.com/api.php/provide/vod"
-    },
-    {
-    "name": "🔵卧龙资源",
-    "api": "https://wolongzyw.com/api.php/provide/vod"
-    },
-    {
         "name": "🔵虎牙",
         "api": "https://www.huyaapi.com/api.php/provide/vod/"
     }, 
@@ -422,6 +406,10 @@
         "api": "https://ckzy.me/api.php/provide/vod/at/xml/?ac=list"
     },
     {
+        "name": "🔵CK百货",
+        "api": "https://ckbh1.xyz/api.php/provide/vod/at/json/"
+    },
+    {
         "name": "🔵CK伦理",
         "api": "https://ckzy.me/api.php/provide/vod/?ac=list"
     },
@@ -432,10 +420,6 @@
     {
         "name": "🔵快车",
         "api": "https://caiji.kuaichezy.org/api.php/provide/vod/?ac=list"
-    },
-    {
-        "name": "🔵影剧资源",
-        "api": "https://caiji.maotaizy.cc/api.php/provide/vod/at/josn/"
     },
     {
         "name": "🔵U酷",
@@ -488,7 +472,7 @@
   {
     "api": "https://ckbh1.xyz/api.php/provide/vod/at/json/",
     "name": "🔞CK百货"
-   },  
+   },    
    {
     "api": "https://fqzy.me//api.php/provide/vod/?ac=list",
     "name": "🔞番茄资源"
