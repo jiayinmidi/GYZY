@@ -76,15 +76,6 @@
     "type": 101
   },
   {
-    "name": "乌云影视",
-    "version": 3,
-    "remark": "🙀是白猫呀！！！",
-    "webSite": "https://wooyun.tv",
-    "order": "B",
-    "api": "https://raw.giteeusercontent.com/jiayinmidi/uz/raw/master/vod/js/Zhi_wooyun.js?metadata=eyJyIjoibWFzdGVyIiwiZnAiOiJ2b2QvanMvWmhpX3dvb3l1bi5qcyIsInVpZCI6MTQ0MDMzMjIsInBpZCI6NDcxODAzNDEsInN0byI6ImdpdC1zaGFyZGluZy1zdG8tNDJ0LTAxMyIsInJwIjoicmVwb3MvNDQvY2UvNDRjZWY1MDE4YjI4N2E4OWZiN2ZjN2FlYjg2MDkwNmNiOTQyY2FmZDdmMmUyOGEyNzljODhiNzlhNDJjMjQzOC5naXQiLCJpc3AiOnRydWUsImV4cGlyZV9hdCI6MTc3ODc2MTIwMH0&signature=gUCUdmWxn_2Uem_2r2GqO9rlEkPECjwKybFJyzKFm58",
-    "type": 101
-  },
-  {
     "name": "[直] 瓜子",
     "version": 2,
     "remark": "🍃豆儿出品，不属精品！",
@@ -92,6 +83,15 @@
     "codeID": "GsrfFOqB7JtHhaMDFHw9Xv3uHrCGSdwe",
     "order": "B",
     "api": "https://raw.giteeusercontent.com/jiayinmidi/uz/raw/master/vod/js/Zhi_guazi.txt?metadata=eyJyIjoibWFzdGVyIiwiZnAiOiJ2b2QvanMvWmhpX2d1YXppLnR4dCIsInVpZCI6MTQ0MDMzMjIsInBpZCI6NDcxODAzNDEsInN0byI6ImdpdC1zaGFyZGluZy1zdG8tNDJ0LTAxMyIsInJwIjoicmVwb3MvNDQvY2UvNDRjZWY1MDE4YjI4N2E4OWZiN2ZjN2FlYjg2MDkwNmNiOTQyY2FmZDdmMmUyOGEyNzljODhiNzlhNDJjMjQzOC5naXQiLCJpc3AiOnRydWUsImV4cGlyZV9hdCI6MTc3ODc2MTIwMH0&signature=XRqra5l3wWDcvHxOnX97XjOT-qfAAQgpKAOB9oQVuvw",
+    "type": 101
+  },
+  {
+    "name": "乌云影视",
+    "version": 3,
+    "remark": "🙀是白猫呀！！！",
+    "webSite": "https://wooyun.tv",
+    "order": "B",
+    "api": "https://raw.giteeusercontent.com/jiayinmidi/uz/raw/master/vod/js/Zhi_wooyun.js?metadata=eyJyIjoibWFzdGVyIiwiZnAiOiJ2b2QvanMvWmhpX3dvb3l1bi5qcyIsInVpZCI6MTQ0MDMzMjIsInBpZCI6NDcxODAzNDEsInN0byI6ImdpdC1zaGFyZGluZy1zdG8tNDJ0LTAxMyIsInJwIjoicmVwb3MvNDQvY2UvNDRjZWY1MDE4YjI4N2E4OWZiN2ZjN2FlYjg2MDkwNmNiOTQyY2FmZDdmMmUyOGEyNzljODhiNzlhNDJjMjQzOC5naXQiLCJpc3AiOnRydWUsImV4cGlyZV9hdCI6MTc3ODc2MTIwMH0&signature=gUCUdmWxn_2Uem_2r2GqO9rlEkPECjwKybFJyzKFm58",
     "type": 101
   },
   {
@@ -406,10 +406,6 @@
         "api": "https://ckzy.me/api.php/provide/vod/at/xml/?ac=list"
     },
     {
-        "name": "🔵CK百货",
-        "api": "https://ckbh1.xyz/api.php/provide/vod/at/json/"
-    },
-    {
         "name": "🔵CK伦理",
         "api": "https://ckzy.me/api.php/provide/vod/?ac=list"
     },
@@ -452,6 +448,10 @@
     {
       "name": "🏀黄库",
       "api": "https://hsckzy888.com/api.php/provide/vod/from/hsckm3u8/at/xmlsea/"
+    },
+    {
+        "name": "🔞CK百货",
+        "api": "https://ckbh1.xyz/api.php/provide/vod/at/json/"
     },
     {
         "name": "🔞奶香香",
