@@ -515,7 +515,7 @@
     },
     {
         "name": "🔞玉兔",
-        "api": "https://apiyutu.com/api.php/provide/vod/?ac=list"
+        "api": "https://apiyutu.com/api.php/providedao/vod/?ac=list"
     },
   {
     "api": "https://apiyutu.com/api.php/provide/vod/at/json",
@@ -623,7 +623,7 @@
     },
     {
         "name": "🔞杏吧",
-        "api": "https://xingba111.com/api.php/provide/vod/?ac=list"
+        "api": "https://json.xingba222.com/api.php/provide/vod/"
     },
   {
     "api": "https://yytv1.cc/api.php/provide/vod/?ac=list",
